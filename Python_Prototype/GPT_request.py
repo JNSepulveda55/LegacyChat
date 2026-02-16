@@ -1,7 +1,7 @@
 import openai
 import json
 
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def create_prompt(name):
